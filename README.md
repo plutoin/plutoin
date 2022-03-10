@@ -5,7 +5,7 @@
 <br/>
 
 <div align=center>
-  <a href="www.linkedin.com/in/soyeon-jang-p1uto">
+  <a href="https://www.linkedin.com/in/soyeon-jang-p1uto">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="https://velog.io/@plutoin">
