@@ -5,12 +5,6 @@
 <br/>
 
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=plutoin&hide=contribs,prs,stars,issues&theme=discord_old_blurple&show_icons=true" width="400px">
-</div>
-
-<br/>
-
-<div align=center>
   <a href="www.linkedin.com/in/soyeon-jang-p1uto">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white">
   </a>
