@@ -1,5 +1,5 @@
 <div align=center style="display: flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plutoin&theme=discord_old_blurple&exclude_repo=college-song-festival,payroll-system,blind-spot-alert,vending-machine,score,reg-exp,parcel-template-basic,TIL&layout=compact&langs_count=8" width="350px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plutoin&theme=discord_old_blurple&exclude_repo=college-song-festival,payroll-system,blind-spot-alert,vending-machine,score,reg-exp,parcel-template-basic,TIL&layout=compact&langs_count=8" width="330px">
 </div>
 
 <br/>
