@@ -26,11 +26,6 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
-</div>
-  
-<br/>
-
-<div align=center style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
@@ -38,9 +33,6 @@
   <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
-</div>
-
-<div align=center style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
