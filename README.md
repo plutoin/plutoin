@@ -5,7 +5,7 @@
 <br>
 
 <div align=center style="display: flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=plutoin&show_icons=true&theme=radical&hide=issues" width="450px">
+  <img src="https://github-readme-stats.vercel.app/api?username=plutoin&show_icons=true&theme=radical&hide=issues,stars" width="450px">
 </div>
 
 <div align=center style="display: flex; align-items: flex-start;">
