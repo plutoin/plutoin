@@ -1,5 +1,5 @@
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<h2 align=center> My Skill Set</h2>  
+<table align=center><tr><td valign="top" width="33%">
 
 
 
@@ -42,14 +42,16 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=plutoin&theme=radical&show_icons=true&count_private=true&hide_border=true&hide=stars" align="center" /></div>  
+<h2 align=center>Github Stats</h2>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=plutoin&theme=nord&show_icons=true&count_private=true&hide_border=true&hide=stars" align="center" /></div>  
 
 <br/>
 
 <div align=center style="display: flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plutoin&theme=radical&hide_border=true&exclude_repo=college-song-festival,payroll-system,blind-spot-alert,score,reg-exp,parcel-template-basic,TIL&layout=compact&langs_count=8" width="350px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plutoin&theme=nord&hide_border=true&langs_count=6&exclude_repo=college-song-festival,payroll-system,score&layout=compact&langs_count=8" width="350px">
 </div>
+
+
 
 
 <!-- <div align = center>
