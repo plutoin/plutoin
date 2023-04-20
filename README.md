@@ -46,13 +46,6 @@
 <h2 align=center>Github Stats</h2>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=plutoin&theme=nord&show_icons=true&count_private=true&hide_border=true&hide=stars" align="center" /></div>  
 
-<br/>
-
-<div align=center style="display: flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plutoin&theme=nord&hide_border=true&langs_count=6&exclude_repo=college-song-festival,payroll-system,score&layout=compact&langs_count=8" width="350px">
-</div>
-
-
 
 
 <!-- <div align = center>
