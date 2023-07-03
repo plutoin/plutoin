@@ -36,11 +36,5 @@
 
 <br/>
 
-<div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fplutoin&count_bg=%2000000&title_bg=%2000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
-
-<br/>
-
 <h3 align=center>GitHub Stats</h3>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=plutoin&theme=react&show_icons=true&count_private=true&hide_border=true&hide=stars" align="center" /></div>
