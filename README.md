@@ -33,8 +33,3 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=square&logo=Notion&logoColor=white">
 </div>
 </div>
-
-<br/>
-
-<h3 align=center>GitHub Stats</h3>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=plutoin&theme=react&show_icons=true&count_private=true&hide_border=true&hide=stars" align="center" /></div>
