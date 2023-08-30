@@ -12,16 +12,17 @@
 </div>
 
 <div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=square&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=square&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=square&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=square&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=square&logo=styled-components&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=square&logo=Sass&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=square&logo=TailwindCSS&logoColor=white">
 
 <div>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=square&logo=Supabase&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=square&logo=Cloudflare&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=square&logo=Firebase&logoColor=black">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=square&logo=Cloudflare&logoColor=white">
 </div>
 
 <div>
